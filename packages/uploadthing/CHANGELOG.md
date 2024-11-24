@@ -1,5 +1,22 @@
 # uploadthing
 
+## 7.4.0
+
+### Minor Changes
+
+- [#1061](https://github.com/pingdotgg/uploadthing/pull/1061) [`65444e5`](https://github.com/pingdotgg/uploadthing/commit/65444e5f046f3df02a480a8d5cc71820edd4e8b3) Thanks [@juliusmarminge](https://github.com/juliusmarminge)! - feat: support `effect/Schema` and `@standard-schema/spec` input validators
+
+### Patch Changes
+
+- [#1056](https://github.com/pingdotgg/uploadthing/pull/1056) [`4e1c34a`](https://github.com/pingdotgg/uploadthing/commit/4e1c34a529a4d25a3b8ccd595dbc6d136d59cea2) Thanks [@juliusmarminge](https://github.com/juliusmarminge)! - chore: bump internal effect version
+
+- [#1058](https://github.com/pingdotgg/uploadthing/pull/1058) [`072fcc3`](https://github.com/pingdotgg/uploadthing/commit/072fcc3c51b9ecec94df1959f06522a7ecfc7268) Thanks [@juliusmarminge](https://github.com/juliusmarminge)! - fix: gracefully handle download errors in `utapi.uploadFilesFromUrl`
+
+- [#1048](https://github.com/pingdotgg/uploadthing/pull/1048) [`a9b6559`](https://github.com/pingdotgg/uploadthing/commit/a9b65594977cdf108ace20cf6b0a43a5cd756ac4) Thanks [@juliusmarminge](https://github.com/juliusmarminge)! - chore: export generic `FileRoute` type
+
+- Updated dependencies [[`4e1c34a`](https://github.com/pingdotgg/uploadthing/commit/4e1c34a529a4d25a3b8ccd595dbc6d136d59cea2)]:
+  - @uploadthing/shared@7.1.2
+
 ## 7.3.0
 
 ### Minor Changes
